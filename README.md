@@ -1,3 +1,2 @@
 # aSimpleStory
-Adding a single sentance
-Spelling sentence correctly
+Adding a single sentence

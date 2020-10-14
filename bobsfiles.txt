@@ -1,3 +1,7 @@
-bob test
+ bob test
+
 
 alices edit that we expect to fail
+=======
+bobs edit 1
+
